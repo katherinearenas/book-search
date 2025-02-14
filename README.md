@@ -1,6 +1,4 @@
-# week-twenty-one-challenge-karenas
-
-# week-twelve-challenge-karenas
+# Book Search
 ## Description
 This project uses the MERN (Mongo DB, Express, React and Node.js ) in conjunction with the google books API to create a book search app.
 
